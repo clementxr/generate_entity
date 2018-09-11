@@ -1,0 +1,5 @@
+ip:192.168.210.58:1521
+port:1521
+servicename:spring
+username:fds
+password:fds
